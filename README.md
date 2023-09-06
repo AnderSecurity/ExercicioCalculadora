@@ -8,3 +8,5 @@ Exemplo:
 
 ![image](https://github.com/AnderSecurity/ExercicioCalculadora/assets/114704633/61b2fc91-e58f-4d05-9dce-5957470ae556)
 
+
+# Ultima atualização: 05/09/2023
