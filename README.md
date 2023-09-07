@@ -1,6 +1,6 @@
 # Testes Automatizados - Calculadora
 ## Descrição
-Projeto criado para a realização de testes automatizados para os tipos de operação para uma calculadora, com algarismos de valores e tipos diferentes em cada caso.
+Projeto criado para a realização de testes automatizados para os tipos de operação para uma calculadora, com algarismos de valores e tipos diferentes em cada caso. Para os testes. será utilizado o Junit.
 
 ## Realização dos Testes
 Para realizar os testes, é necessário executar a classe "main" correspondente ao tipo de operação que voce deseja.
